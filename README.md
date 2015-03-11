@@ -1,7 +1,7 @@
 ## mCrypt me
 
-The way I store passwords in evernote and google keep. 
+This is the way I store passwords in "evernote" and "google keep" (in case I need to).
 
-How secure is this? I don't really know; but it's anyways way better than a plain text.
+How secure is this? I don't really know; but it's way better than the plain text.
 
-credits [Alex005](https://github.com/Alex005 "Alex005")
+credits [Alex005](https://github.com/Alex005/McryptContainer "Alex005")

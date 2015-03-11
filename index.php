@@ -60,8 +60,10 @@
 		</form>
 		<hr/>
 		<div class="col-md-12">
-			<textarea class="reply form-control" rows="10"></textarea>
+			<textarea class="reply form-control" placeholder="Result" rows="10"></textarea>
 		</div>
+		<br><br>
+		<br><br>&nbsp;
 		<script src="ajax.js"></script>
 	</body>
 </html>
