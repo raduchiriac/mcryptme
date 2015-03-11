@@ -5,11 +5,11 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 		<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 	</head>
-	<body style="padding:10%">
+	<body style="padding:2%">
 		<form class="form-horizontal">
 			<fieldset>
 				<!-- Form Name -->
-				<legend>Encrypt</legend>
+				<legend class="alert alert-danger">Encrypt</legend>
 				<!-- Text input-->
 				<div class="form-group">
 					<label class="col-md-4 control-label" for="key"></label>
@@ -35,7 +35,7 @@
 		<form class="form-horizontal">
 			<fieldset>
 				<!-- Form Name -->
-				<legend>Decrypt</legend>
+				<legend class="alert label-success">Decrypt</legend>
 				<!-- Text input-->
 				<div class="form-group">
 					<label class="col-md-4 control-label" for="key"></label>
